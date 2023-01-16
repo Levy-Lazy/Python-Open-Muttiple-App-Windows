@@ -14,3 +14,6 @@ This script is used to open multiple applications at once. The script uses the `
 ## Note
 - The script is written for Windows, and the name of the applications may be different on other operating systems.
 - You can add more applications as you want, by adding the name of the application in the list.
+
+## Note by me
+- This Script write by AI...
